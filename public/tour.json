@@ -1,0 +1,40 @@
+[
+
+  {
+    "img": "image6.jpg",
+    "title": "Product 6",
+    "type": "Beauty",
+    "price": 44.99,
+    "button": "Buy Now"
+  },
+  {
+    "img": "image7.jpg",
+    "title": "Product 7",
+    "type": "Kitchen",
+    "price": 34.99,
+    "button": "Add to Cart"
+  },
+  {
+    "img": "image8.jpg",
+    "title": "Product 8",
+    "type": "Toys",
+    "price": 24.99,
+    "button": "Add to Wishlist"
+  },
+  {
+    "img": "image9.jpg",
+    "title": "Product 9",
+    "type": "Gadgets",
+    "price": 54.99,
+    "button": "Buy Now"
+  },
+  {
+    "img": "image10.jpg",
+    "title": "Product 10",
+    "type": "Fitness",
+    "price": 49.99,
+    "button": "View Details"
+  }
+  
+ 
+]
